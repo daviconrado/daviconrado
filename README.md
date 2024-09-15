@@ -1,7 +1,7 @@
 ### Olá!! 
 
 - 🔭 Atualmente cursando Engenharia de Software - UTFPR
-- 🌱 No momento desenvolvendo habilidades em front-end
+
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daviconrado&theme=dark&card_width=300" />
