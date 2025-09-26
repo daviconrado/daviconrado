@@ -9,8 +9,6 @@ Sou estudante de Engenharia de Software pela UTFPR em Dois Vizinhos-PR — sou a
 
 ### ✉️ Contato:
 
-GitHub: https://github.com/daviconrado
-
 LinkedIn: https://www.linkedin.com/in/daviconrado
 
 Email: daviconradoneto@gmail.com
