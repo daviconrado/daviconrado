@@ -1,4 +1,4 @@
-**Opa, Meu nome é Davi Conrado — Analista DevOps & Desenvolvedor Full-Stack**
+**Opa, meu nome é Davi Conrado — Analista DevOps & Desenvolvedor Full-Stack**
 ### Sobre mim
 
 - Sou estudante de Engenharia de Software pela UTFPR em Dois Vizinhos-PR e atualmente atuo como **Analista de Configuração/DevOps na CISS**. Minha jornada tem evoluído da construção de aplicações web para uma paixão profunda por infraestrutura, automação, observabilidade e arquitetura de software escalável. Sou certificado como **AWS Cloud Practitioner**.
